@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "fitnessapp-1274",
+    "project_number": "864748172864",
+    "name": "Fitnessapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864748172864:android:01cba218fa7033a5",
+        "client_id": "android:com.example.kimjeongyong.fitnesscheck2",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.kimjeongyong.fitnesscheck2",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864748172864-02ujfrv8qs4a64u5ci9j9ug1j8l0v4pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kimjeongyong.fitnesscheck2",
+            "certificate_hash": "6149B1687D16C830280B516A111F6F241943EC57"
+          }
+        },
+        {
+          "client_id": "864748172864-f58avg86qakioom8niboob19ioce9r5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
